@@ -1,3 +1,4 @@
+package ru.netology.stats;
 public class CashBackHackerService {
     private final int boundary = 1000;
 
